@@ -119,7 +119,7 @@ export default function UkraineInfoPage() {
               category: "Humanitarian",
               title: "Civilian Protection Efforts Continue",
               description: "International organizations are working to protect civilians and provide essential aid in affected regions.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766152808169-80lkxy22.jpg",
+              imageSrc: "",
               imageAlt: "Humanitarian aid efforts"
             },
             {
