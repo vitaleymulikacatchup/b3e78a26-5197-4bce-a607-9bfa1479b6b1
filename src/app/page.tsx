@@ -177,7 +177,7 @@ export default function UkraineInfoPage() {
               content: "Established organizations include the Ukrainian Red Cross, World Food Programme, UNICEF, Doctors Without Borders, and UN agencies. Check organization registrations and financial transparency before donating."
             }
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766152809260-c63tn6hd.jpg"
+          imageSrc=""
           imageAlt="Information resources"
           mediaPosition="left"
           textboxLayout="default"
