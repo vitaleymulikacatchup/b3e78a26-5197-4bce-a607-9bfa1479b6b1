@@ -40,7 +40,7 @@ export default function UkraineInfoPage() {
 
       <div id="hero" data-section="hero">
         <HeroSplitAvatars
-          title="The Situation in Ukraine"
+          title="Ukraine War"
           description="Get factual information about the humanitarian crisis and what is happening in Ukraine right now"
           tag="Current Crisis"
           avatars={[
