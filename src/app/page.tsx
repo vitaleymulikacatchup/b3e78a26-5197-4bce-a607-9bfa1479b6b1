@@ -127,7 +127,7 @@ export default function UkraineInfoPage() {
               category: "International",
               title: "Global Solidarity with Ukraine",
               description: "Countries worldwide continue diplomatic efforts and provide support for Ukraine's sovereignty and defense.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766152806803-vofe42ih.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766153614622-k9lo67bq.jpg",
               imageAlt: "International support"
             },
             {
