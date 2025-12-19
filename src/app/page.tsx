@@ -84,7 +84,7 @@ export default function UkraineInfoPage() {
               description: "As of now, the conflict continues with active military operations, ongoing diplomatic efforts, and continued humanitarian needs. International attention and support remain vital for Ukraine's defense and civilian protection."
             }
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766152805764-tos1k7s0.jpg"
+          imageSrc=""
           imageAlt="Humanitarian crisis in Ukraine"
           imagePosition="right"
           useInvertedBackground="noInvert"
